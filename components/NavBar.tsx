@@ -1,7 +1,7 @@
 import React from "react";
 import { Button } from "./ui/button";
 import Link from "next/link";
-import { Album, Menu } from "lucide-react";
+import { Album } from "lucide-react";
 
 export default function NavBar() {
     return (
